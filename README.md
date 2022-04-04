@@ -9,5 +9,6 @@ A repo keeping track of all the OSS projects I find useful
 
 
 
+# Disclaimers & others...
 
-- `Disclaimer: I do not own any of this projects.`
+- Disclaimer: I do not own any of this projects.
