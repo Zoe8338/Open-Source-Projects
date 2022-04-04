@@ -1,5 +1,6 @@
 # Open-Source-Projects
 A repo keeping track of all the OSS projects I find useful
+`Disclaimer: I do not own any of this projects.`
 
 # Index
 
