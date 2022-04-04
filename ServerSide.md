@@ -31,12 +31,13 @@
 - MediaWiki (Wiki) - https://www.mediawiki.org/wiki/MediaWiki
 - OpenCart (E-commerce) - https://www.opencart.com/
 - Peertube (Video Sharing) - https://joinpeertube.org/
-- Singlelink (Biography Links) - https://www.singlelink.co/
+- Singlelink (Reference Landing Page) - https://www.singlelink.co/
 - Discourse (Forum) - https://www.discourse.org/
 - LibreTranslate (Translation) - https://libretranslate.com/
 - Funkwhale (Audio sharing) - https://funkwhale.audio/
 - Vaultwarden (Password Manager) - https://github.com/dani-garcia/vaultwarden
 - Docker (Hosting) - https://www.docker.com/
+- LittleLink (Reference Landing Page) - https://littlelink.io/
 
 
 # Communication
@@ -44,7 +45,7 @@
 - Mail-in-a-box (e-mail) - https://mailinabox.email/
 - Matrix (Chat) - https://matrix.org/
 - Diaspora (social) - https://diasporafoundation.org/
-- 
+
 
 
 # NVR
