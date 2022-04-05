@@ -19,6 +19,7 @@
 - PiVPN (VPN) - https://www.pivpn.io/
 - WireGuard (VPN) - https://www.wireguard.com/
 - OpenVPN (VPN) - https://openvpn.net/
+- Traefik (Reverse Proxy) - https://traefik.io/
 
 # Server Management
 - Cockpit - https://cockpit-project.org/
@@ -46,6 +47,13 @@
 - Photoprism (Photo cloud) - https://photoprism.app/
 - Lomorage (Photo cloud) - https://lomorage.com/
 - Home-gallery (Photo cloud) - https://home-gallery.org/
+- Terraform (Infrastructure as code) - https://www.terraform.io/
+- Kubernetes (containers automation) - https://kubernetes.io/
+- Nginx (web server) - https://www.nginx.com/
+- Apache (web server) - https://apache.org/
+- Rancher (Kubernetes UI) - https://rancher.com/
+- Portainer (Docker UI) - https://www.portainer.io/
+- Teleport Server Access (SSH tool) - https://goteleport.com/ssh-server-access/
 
 
 # Communication
