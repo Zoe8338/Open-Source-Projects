@@ -4,6 +4,8 @@ OpenZFS - https://openzfs.org/wiki/Main_Page
 
 ZFSOnLinux - https://zfsonlinux.org
 
+SSHFS - https://github.com/libfuse/sshfs
+
 # DE/WMs
 
 ## X11
