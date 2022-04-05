@@ -1,19 +1,19 @@
 # File Systems
 
-[OpenZFS](https://openzfs.org/wiki/Main_Page)
+OpenZFS - https://openzfs.org/wiki/Main_Page
 
-[ZFSOnLinux](https://zfsonlinux.org)
+ZFSOnLinux - https://zfsonlinux.org
 
 # DE/WMs
 
 ## X11
 
-[i3](https://i3wm.org)
+i3 - https://i3wm.org
 
-[Awesomewm](https://awesomewm.org)
+Awesomewm - https://awesomewm.org
 
-[QTile](http://www.qtile.org)
+QTile - http://www.qtile.org
 
 ## Wayland
 
-[Sway](https://swaywm.org)
+Sway - https://swaywm.org
