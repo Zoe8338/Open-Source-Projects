@@ -25,7 +25,7 @@
 
 
 
-# Hosting Software
+# Hosting Software (selfhosting)
 
 - Wordpress (Blogging) - https://wordpress.org/
 - Owncast (Streaming) - https://owncast.online/
@@ -43,6 +43,9 @@
 - Vaultwarden (Password Manager) - https://github.com/dani-garcia/vaultwarden
 - Docker (Hosting) - https://www.docker.com/
 - LittleLink (Reference Landing Page) - https://littlelink.io/
+- Photoprism (Photo cloud) - https://photoprism.app/
+- Lomorage (Photo cloud) - https://lomorage.com/
+- Home-gallery (Photo cloud) - https://home-gallery.org/
 
 
 # Communication
