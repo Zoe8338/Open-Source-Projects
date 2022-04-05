@@ -3,7 +3,7 @@
 - Proxmox VE (Virtualization) - https://www.proxmox.com/en/
 - CasaOS (Multi-purpose)- https://www.casaos.io/
 - yunohost (Multi-purpose) - https://yunohost.org/#/
-- HomelabOS (Multi-purpose) - https://homelabos.com/
+- HomelabOS (Multi-purpose) - https://homelabos.com/ (tried on both Ubuntu 20.04 and Debian10 and gave me an error at the end of installation)
 - ClearOS (Networking) - https://www.clearos.com/
 - Nethserver (Multi-purpose) - https://www.nethserver.org/
 - PfSense (Router/Firewall) - https://www.pfsense.org/
