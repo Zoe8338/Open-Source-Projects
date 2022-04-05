@@ -20,6 +20,11 @@
 - WireGuard (VPN) - https://www.wireguard.com/
 - OpenVPN (VPN) - https://openvpn.net/
 
+# Server Management
+- Cockpit - https://cockpit-project.org/
+
+
+
 # Hosting Software
 
 - Wordpress (Blogging) - https://wordpress.org/
