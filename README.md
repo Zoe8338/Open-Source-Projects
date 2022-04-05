@@ -5,6 +5,8 @@ A repo keeping track of all the OSS projects I find useful
 
 - [Server software](https://github.com/Zoe8338/Open-Source-Projects/blob/main/ServerSide.md)
 - [Content Creation](https://github.com/Zoe8338/Open-Source-Projects/blob/main/ContentCreation.md)
+- [User Utilities](https://github.com/Zoe8338/Open-Source-Projects/blob/main/UserUtilities.md)
+- [Operating Systems](https://github.com/Zoe8338/Open-Source-Projects/blob/main/OperatingSystems.md)
 
 
 
