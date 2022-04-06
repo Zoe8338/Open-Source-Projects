@@ -54,6 +54,7 @@
 - Rancher (Kubernetes UI) - https://rancher.com/
 - Portainer (Docker UI) - https://www.portainer.io/
 - Teleport Server Access (SSH tool) - https://goteleport.com/ssh-server-access/
+- Moodle (Learning platform) - https://moodle.com/
 
 
 # Communication
